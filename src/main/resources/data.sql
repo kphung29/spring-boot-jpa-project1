@@ -1,0 +1,10 @@
+insert into person values (121, 'Kevin', 'Java');
+insert into person values (214, 'Josh', 'iOS');
+insert into person values (332, 'Chris', 'Kotlin');
+insert into person values (233, 'Hylton', 'Node');
+insert into person values (5145, 'Shallot', 'C++');
+insert into person values (6534, 'Amy', 'Python');
+insert into person values (7231, 'Joe', 'Java');
+insert into person values (853, 'Steve', 'Node');
+insert into person values (935, 'Omar', 'Kotlin');
+insert into person values (1011, 'Jen', 'Flutter');
